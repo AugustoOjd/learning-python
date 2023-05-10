@@ -1,0 +1,6 @@
+nora - 60
+gino - 23
+lorena - 42
+talina - 31
+manuel - 60
+ramon - 72
